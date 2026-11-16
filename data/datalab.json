@@ -1,0 +1,11 @@
+{
+  "total": 3197,
+  "apps": {
+    "STRICT": 923,
+    "FORM": 526,
+    "ATHENA": 551,
+    "SOS": 291,
+    "AGENDATA": 118,
+    "Platform": 508
+  }
+}

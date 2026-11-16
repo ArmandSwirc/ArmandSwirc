@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="528" viewBox="0 0 1000 528" role="img" aria-label="HR Business Datalab, Hogeschool Rotterdam: STRICT (interview research), FORM (formative assessment), ATHENA (campus ai chat), SOS (slide studio), AGENDATA (synthetic data), Platform (shared platform). 3,197 commits.">
+<title>HR Business Datalab, Hogeschool Rotterdam: STRICT (interview research), FORM (formative assessment), ATHENA (campus ai chat), SOS (slide studio), AGENDATA (synthetic data), Platform (shared platform). 3,197 commits.</title>
+<style>
+
+.wv { transform-box: fill-box; transform-origin: center; animation: wv 1.2s ease-in-out infinite; }
+@keyframes wv { 0%, 100% { transform: scaleY(.45) } 50% { transform: scaleY(1) } }
+.ck { stroke-dasharray: 10; animation: ck 3s ease-out infinite; }
+@keyframes ck { 0% { stroke-dashoffset: 10 } 20%, 85% { stroke-dashoffset: 0 } 100% { stroke-dashoffset: 10 } }
+.eye { transform-box: fill-box; transform-origin: center; animation: blink 4.5s infinite; }
+@keyframes blink { 0%, 92%, 100% { transform: scaleY(1) } 96% { transform: scaleY(.15) } }
+.sl { animation: bob 3.2s ease-in-out infinite; }
+@keyframes bob { 0%, 100% { transform: translateY(0) } 50% { transform: translateY(-2.5px) } }
+.cell { animation: cell 3.2s ease-in-out infinite; }
+@keyframes cell { 0%, 100% { fill-opacity: .22 } 50% { fill-opacity: .85 } }
+.top { animation: bob 3s ease-in-out infinite; }
+.pulse { animation: down 1.8s ease-in infinite; }
+@keyframes down { 0% { transform: translateY(0); opacity: 0 } 20% { opacity: 1 } 100% { transform: translateY(22px); opacity: 0 } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f1426"/><stop offset="1" stop-color="#161033"/></linearGradient>
+  <radialGradient id="glow" cx="0.92" cy="0.05" r="0.55"><stop offset="0" stop-color="#a78bfa" stop-opacity="0.2"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></radialGradient>
+  <linearGradient id="num" x1="800" y1="0" x2="972" y2="0" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#a78bfa"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#a78bfa" fill-opacity="0.16"/></pattern>
+</defs>
+<rect x="1" y="1" width="998" height="526" rx="20" fill="url(#bg)" stroke="#2b2654" stroke-width="1.5"/>
+<rect x="1" y="1" width="998" height="526" rx="20" fill="url(#dots)"/>
+<rect x="1" y="1" width="998" height="526" rx="20" fill="url(#glow)"/>
+<text x="28" y="52" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" font-weight="700" letter-spacing="2.5" fill="#a78bfa">HR BUSINESS DATALAB · HOGESCHOOL ROTTERDAM</text>
+<text x="28" y="90" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="29" font-weight="800" letter-spacing="-0.4" fill="#f5f3ff">AI apps for research &amp; education</text>
+<text x="972" y="74" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="44" font-weight="800" letter-spacing="-1" fill="url(#num)">3,197</text>
+<text x="972" y="97" text-anchor="end" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8582a8">commits to the Datalab</text>
+
+<g transform="translate(28 120)">
+  <rect width="304" height="146" rx="14" fill="#0f1426" fill-opacity="0.6" stroke="#2b2654" stroke-width="1.2"/>
+  <rect x="20" y="0" width="48" height="3" rx="1.5" fill="#22d3ee"/>
+  <rect x="20" y="20" width="44" height="44" rx="11" fill="#22d3ee" fill-opacity="0.14"/>
+  <g transform="translate(22 22)"><rect class="wv" style="animation-delay:-0.00s" x="5" y="16" width="2.8" height="8" rx="1.4" fill="#22d3ee"/><rect class="wv" style="animation-delay:-0.18s" x="9.6" y="10" width="2.8" height="20" rx="1.4" fill="#22d3ee"/><rect class="wv" style="animation-delay:-0.36s" x="14.2" y="13.5" width="2.8" height="13" rx="1.4" fill="#22d3ee"/><rect class="wv" style="animation-delay:-0.54s" x="18.8" y="6" width="2.8" height="28" rx="1.4" fill="#22d3ee"/><rect class="wv" style="animation-delay:-0.72s" x="23.4" y="11.5" width="2.8" height="17" rx="1.4" fill="#22d3ee"/><rect class="wv" style="animation-delay:-0.90s" x="28" y="8" width="2.8" height="24" rx="1.4" fill="#22d3ee"/><rect class="wv" style="animation-delay:-1.08s" x="32.6" y="15" width="2.8" height="10" rx="1.4" fill="#22d3ee"/></g>
+  <text x="78" y="40" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#f5f3ff">STRICT</text>
+  <text x="78" y="60" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8582a8">interview research</text>
+  <text x="286" y="39" text-anchor="end" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="700" fill="#22d3ee">923</text>
+  <text x="286" y="55" text-anchor="end" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#8582a8">commits</text>
+  <text font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.5" fill="#b9b6d6"><tspan x="20" y="98">Transcribes, codes and analyses</tspan><tspan x="20" y="120">research interviews end to end.</tspan></text>
+</g>
+<g transform="translate(348 120)">
+  <rect width="304" height="146" rx="14" fill="#0f1426" fill-opacity="0.6" stroke="#2b2654" stroke-width="1.2"/>
+  <rect x="20" y="0" width="48" height="3" rx="1.5" fill="#34d399"/>
+  <rect x="20" y="20" width="44" height="44" rx="11" fill="#34d399" fill-opacity="0.14"/>
+  <g transform="translate(22 22)"><rect x="6" y="5" width="8" height="8" rx="2" fill="none" stroke="#34d399" stroke-width="1.6"/><path class="ck" style="animation-delay:0s" d="M7.6 9 l2 2 l3.4 -4" fill="none" stroke="#34d399" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><rect x="18" y="7.5" width="16" height="3" rx="1.5" fill="#8582a8" opacity="0.7"/><rect x="6" y="16" width="8" height="8" rx="2" fill="none" stroke="#34d399" stroke-width="1.6"/><path class="ck" style="animation-delay:0.5s" d="M7.6 20 l2 2 l3.4 -4" fill="none" stroke="#34d399" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><rect x="18" y="18.5" width="11" height="3" rx="1.5" fill="#8582a8" opacity="0.7"/><rect x="6" y="27" width="8" height="8" rx="2" fill="none" stroke="#34d399" stroke-width="1.6"/><path class="ck" style="animation-delay:1s" d="M7.6 31 l2 2 l3.4 -4" fill="none" stroke="#34d399" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><rect x="18" y="29.5" width="14" height="3" rx="1.5" fill="#8582a8" opacity="0.7"/></g>
+  <text x="78" y="40" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#f5f3ff">FORM</text>
+  <text x="78" y="60" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8582a8">formative assessment</text>
+  <text x="286" y="39" text-anchor="end" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="700" fill="#34d399">526</text>
+  <text x="286" y="55" text-anchor="end" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#8582a8">commits</text>
+  <text font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.5" fill="#b9b6d6"><tspan x="20" y="98">AI feedback on student work,</tspan><tspan x="20" y="120">checked against teacher rubrics.</tspan></text>
+</g>
+<g transform="translate(668 120)">
+  <rect width="304" height="146" rx="14" fill="#0f1426" fill-opacity="0.6" stroke="#2b2654" stroke-width="1.2"/>
+  <rect x="20" y="0" width="48" height="3" rx="1.5" fill="#a78bfa"/>
+  <rect x="20" y="20" width="44" height="44" rx="11" fill="#a78bfa" fill-opacity="0.14"/>
+  <g transform="translate(22 22)"><rect x="2" y="2" width="4" height="4" fill="#a78bfa"/><rect x="34" y="2" width="4" height="4" fill="#a78bfa"/><rect x="2" y="6" width="4" height="4" fill="#a78bfa"/><rect x="6" y="6" width="4" height="4" fill="#a78bfa"/><rect x="30" y="6" width="4" height="4" fill="#a78bfa"/><rect x="34" y="6" width="4" height="4" fill="#a78bfa"/><rect x="2" y="10" width="4" height="4" fill="#a78bfa"/><rect x="6" y="10" width="4" height="4" fill="#a78bfa"/><rect x="10" y="10" width="4" height="4" fill="#a78bfa"/><rect x="14" y="10" width="4" height="4" fill="#a78bfa"/><rect x="18" y="10" width="4" height="4" fill="#a78bfa"/><rect x="22" y="10" width="4" height="4" fill="#a78bfa"/><rect x="26" y="10" width="4" height="4" fill="#a78bfa"/><rect x="30" y="10" width="4" height="4" fill="#a78bfa"/><rect x="34" y="10" width="4" height="4" fill="#a78bfa"/><rect x="2" y="14" width="4" height="4" fill="#a78bfa"/><rect x="14" y="14" width="4" height="4" fill="#a78bfa"/><rect x="18" y="14" width="4" height="4" fill="#a78bfa"/><rect x="22" y="14" width="4" height="4" fill="#a78bfa"/><rect x="34" y="14" width="4" height="4" fill="#a78bfa"/><rect x="2" y="18" width="4" height="4" fill="#a78bfa"/><rect x="14" y="18" width="4" height="4" fill="#a78bfa"/><rect x="18" y="18" width="4" height="4" fill="#a78bfa"/><rect x="22" y="18" width="4" height="4" fill="#a78bfa"/><rect x="34" y="18" width="4" height="4" fill="#a78bfa"/><rect x="2" y="22" width="4" height="4" fill="#a78bfa"/><rect x="6" y="22" width="4" height="4" fill="#a78bfa"/><rect x="10" y="22" width="4" height="4" fill="#a78bfa"/><rect x="14" y="22" width="4" height="4" fill="#a78bfa"/><rect x="18" y="22" width="4" height="4" fill="#f59e0b"/><rect x="22" y="22" width="4" height="4" fill="#a78bfa"/><rect x="26" y="22" width="4" height="4" fill="#a78bfa"/><rect x="30" y="22" width="4" height="4" fill="#a78bfa"/><rect x="34" y="22" width="4" height="4" fill="#a78bfa"/><rect x="6" y="26" width="4" height="4" fill="#a78bfa"/><rect x="10" y="26" width="4" height="4" fill="#a78bfa" fill-opacity="0.5"/><rect x="14" y="26" width="4" height="4" fill="#a78bfa" fill-opacity="0.5"/><rect x="18" y="26" width="4" height="4" fill="#a78bfa" fill-opacity="0.5"/><rect x="22" y="26" width="4" height="4" fill="#a78bfa" fill-opacity="0.5"/><rect x="26" y="26" width="4" height="4" fill="#a78bfa" fill-opacity="0.5"/><rect x="30" y="26" width="4" height="4" fill="#a78bfa"/><rect x="6" y="30" width="4" height="4" fill="#a78bfa"/><rect x="10" y="30" width="4" height="4" fill="#a78bfa" fill-opacity="0.5"/><rect x="14" y="30" width="4" height="4" fill="#a78bfa"/><rect x="18" y="30" width="4" height="4" fill="#a78bfa" fill-opacity="0.5"/><rect x="22" y="30" width="4" height="4" fill="#a78bfa"/><rect x="26" y="30" width="4" height="4" fill="#a78bfa" fill-opacity="0.5"/><rect x="30" y="30" width="4" height="4" fill="#a78bfa"/><rect x="10" y="34" width="4" height="4" fill="#f59e0b"/><rect x="26" y="34" width="4" height="4" fill="#f59e0b"/><g class="eye"><rect x="6" y="14" width="4" height="4" fill="#ffffff"/><rect x="10" y="14" width="4" height="4" fill="#ffffff"/><rect x="26" y="14" width="4" height="4" fill="#ffffff"/><rect x="30" y="14" width="4" height="4" fill="#ffffff"/><rect x="6" y="18" width="4" height="4" fill="#ffffff"/><rect x="10" y="18" width="4" height="4" fill="#111827"/><rect x="26" y="18" width="4" height="4" fill="#111827"/><rect x="30" y="18" width="4" height="4" fill="#ffffff"/></g></g>
+  <text x="78" y="40" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#f5f3ff">ATHENA</text>
+  <text x="78" y="60" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8582a8">campus ai chat</text>
+  <text x="286" y="39" text-anchor="end" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="700" fill="#a78bfa">551</text>
+  <text x="286" y="55" text-anchor="end" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#8582a8">commits</text>
+  <text font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.5" fill="#b9b6d6"><tspan x="20" y="98">AI chat for students and staff,</tspan><tspan x="20" y="120">with web search and file reading.</tspan></text>
+</g>
+<g transform="translate(28 282)">
+  <rect width="304" height="146" rx="14" fill="#0f1426" fill-opacity="0.6" stroke="#2b2654" stroke-width="1.2"/>
+  <rect x="20" y="0" width="48" height="3" rx="1.5" fill="#fb923c"/>
+  <rect x="20" y="20" width="44" height="44" rx="11" fill="#fb923c" fill-opacity="0.14"/>
+  <g transform="translate(22 22)"><rect x="9" y="6" width="26" height="18" rx="3" fill="#fb923c" fill-opacity="0.35"/><g class="sl"><rect x="5" y="12" width="28" height="20" rx="3" fill="#0f1426" stroke="#fb923c" stroke-width="1.8"/><rect x="9" y="16.5" width="14" height="3" rx="1.5" fill="#fb923c"/><rect x="9" y="22.5" width="19" height="2" rx="1" fill="#8582a8"/><rect x="9" y="26.5" width="14" height="2" rx="1" fill="#8582a8"/></g></g>
+  <text x="78" y="40" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#f5f3ff">SOS</text>
+  <text x="78" y="60" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8582a8">slide studio</text>
+  <text x="286" y="39" text-anchor="end" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="700" fill="#fb923c">291</text>
+  <text x="286" y="55" text-anchor="end" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#8582a8">commits</text>
+  <text font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.5" fill="#b9b6d6"><tspan x="20" y="98">Teachers chat a lesson into</tspan><tspan x="20" y="120">slides in the house style.</tspan></text>
+</g>
+<g transform="translate(348 282)">
+  <rect width="304" height="146" rx="14" fill="#0f1426" fill-opacity="0.6" stroke="#2b2654" stroke-width="1.2"/>
+  <rect x="20" y="0" width="48" height="3" rx="1.5" fill="#f472b6"/>
+  <rect x="20" y="20" width="44" height="44" rx="11" fill="#f472b6" fill-opacity="0.14"/>
+  <g transform="translate(22 22)"><rect x="6" y="7" width="8.5" height="5.5" rx="1.2" fill="#f472b6" fill-opacity="0.95"/><rect x="16" y="7" width="8.5" height="5.5" rx="1.2" fill="#f472b6" fill-opacity="0.95"/><rect x="26" y="7" width="8.5" height="5.5" rx="1.2" fill="#f472b6" fill-opacity="0.95"/><rect class="cell" style="animation-delay:-2.43s" x="6" y="14" width="8.5" height="5.5" rx="1.2" fill="#f472b6" fill-opacity="0.3"/><rect class="cell" style="animation-delay:-1.08s" x="16" y="14" width="8.5" height="5.5" rx="1.2" fill="#f472b6" fill-opacity="0.3"/><rect class="cell" style="animation-delay:-2.97s" x="26" y="14" width="8.5" height="5.5" rx="1.2" fill="#f472b6" fill-opacity="0.3"/><rect class="cell" style="animation-delay:-1.62s" x="6" y="21" width="8.5" height="5.5" rx="1.2" fill="#f472b6" fill-opacity="0.3"/><rect class="cell" style="animation-delay:-0.27s" x="16" y="21" width="8.5" height="5.5" rx="1.2" fill="#f472b6" fill-opacity="0.3"/><rect class="cell" style="animation-delay:-2.16s" x="26" y="21" width="8.5" height="5.5" rx="1.2" fill="#f472b6" fill-opacity="0.3"/><rect class="cell" style="animation-delay:-0.81s" x="6" y="28" width="8.5" height="5.5" rx="1.2" fill="#f472b6" fill-opacity="0.3"/><rect class="cell" style="animation-delay:-2.70s" x="16" y="28" width="8.5" height="5.5" rx="1.2" fill="#f472b6" fill-opacity="0.3"/><rect class="cell" style="animation-delay:-1.35s" x="26" y="28" width="8.5" height="5.5" rx="1.2" fill="#f472b6" fill-opacity="0.3"/></g>
+  <text x="78" y="40" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#f5f3ff">AGENDATA</text>
+  <text x="78" y="60" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8582a8">synthetic data</text>
+  <text x="286" y="39" text-anchor="end" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="700" fill="#f472b6">118</text>
+  <text x="286" y="55" text-anchor="end" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#8582a8">commits</text>
+  <text font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.5" fill="#b9b6d6"><tspan x="20" y="98">Synthetic datasets on request,</tspan><tspan x="20" y="120">built for use in class.</tspan></text>
+</g>
+<g transform="translate(668 282)">
+  <rect width="304" height="146" rx="14" fill="#0f1426" fill-opacity="0.6" stroke="#2b2654" stroke-width="1.2"/>
+  <rect x="20" y="0" width="48" height="3" rx="1.5" fill="#60a5fa"/>
+  <rect x="20" y="20" width="44" height="44" rx="11" fill="#60a5fa" fill-opacity="0.14"/>
+  <g transform="translate(22 22)"><path d="M20 24 L34 31 L20 38 L6 31 Z" fill="#60a5fa" fill-opacity="0.3"/><path d="M20 16 L34 23 L20 30 L6 23 Z" fill="#60a5fa" fill-opacity="0.6"/><path class="top" d="M20 8 L34 15 L20 22 L6 15 Z" fill="#60a5fa" fill-opacity="1"/></g>
+  <text x="78" y="40" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#f5f3ff">Platform</text>
+  <text x="78" y="60" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8582a8">shared platform</text>
+  <text x="286" y="39" text-anchor="end" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="700" fill="#60a5fa">508</text>
+  <text x="286" y="55" text-anchor="end" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#8582a8">commits</text>
+  <text font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.5" fill="#b9b6d6"><tspan x="20" y="98">One portal and one login, with</tspan><tspan x="20" y="120">shared AI gateways for every app.</tspan></text>
+</g>
+<line x1="180" y1="428" x2="180" y2="450" stroke="#a78bfa" stroke-opacity="0.5" stroke-width="2" stroke-dasharray="3 4"/><circle class="pulse" style="animation-delay:0s" cx="180" cy="428" r="3.5" fill="#22d3ee"/><line x1="500" y1="428" x2="500" y2="450" stroke="#a78bfa" stroke-opacity="0.5" stroke-width="2" stroke-dasharray="3 4"/><circle class="pulse" style="animation-delay:0.6s" cx="500" cy="428" r="3.5" fill="#22d3ee"/><line x1="820" y1="428" x2="820" y2="450" stroke="#a78bfa" stroke-opacity="0.5" stroke-width="2" stroke-dasharray="3 4"/><circle class="pulse" style="animation-delay:1.2s" cx="820" cy="428" r="3.5" fill="#22d3ee"/>
+<rect x="28" y="450" width="944" height="50" rx="12" fill="#a78bfa" fill-opacity="0.08" stroke="#a78bfa" stroke-opacity="0.4" stroke-width="1.2"/>
+<text x="500" y="480.5" text-anchor="middle" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13.5" fill="#b9b6d6">one portal<tspan fill="#a78bfa">  ·  </tspan>one login<tspan fill="#a78bfa">  ·  </tspan>shared AI gateways<tspan fill="#a78bfa">  ·  </tspan>every app in its own containers</text>
+</svg>
