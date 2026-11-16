@@ -116,5 +116,3 @@ Most of my code goes into the [**HR Business Datalab**](https://github.com/HR-Bu
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArmandSwirc/ArmandSwirc/output/snake-dark.svg">
   <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/ArmandSwirc/ArmandSwirc/output/snake-light.svg" width="100%">
 </picture>
-
-<p align="center"><sub>Built in Rotterdam · stats refresh daily via GitHub Actions</sub></p>

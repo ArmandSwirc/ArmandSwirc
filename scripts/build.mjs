@@ -346,7 +346,7 @@ function sectionTitle(mode, index, title) {
 // ---------------------------------------------------------------------------------- project cards
 
 const TERRA_MAP = [
-  "^^^^^^^^^^^^^^^^^^^^",
+  "....................",
   "...##.....####......",
   "..####...######..##.",
   "...###..#ss#####.##.",
@@ -355,12 +355,12 @@ const TERRA_MAP = [
   ".....##...##....###.",
   "......#....#.....##.",
   "...........#........",
-  "^^^^^^^^^^^^^^^^^^^^",
+  "....................",
 ];
 
 function terraArt(mode, t, color) {
   const cx = 526, cy = 70, r = 40, px = 8, ox = cx - r, oy = cy - r, mapW = 20 * px;
-  const fill = { "#": color, s: "#eab308", "^": "#e0f2fe" };
+  const fill = { "#": color, s: "#eab308" };
   let pixels = "";
   for (const copy of [0, 1]) {
     TERRA_MAP.forEach((row, y) => [...row].forEach((ch, x) => {
